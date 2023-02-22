@@ -2,6 +2,8 @@
 
 Code for Machine Learning assignments from University of Macedonia
 
+The code runs on google colab
+
 ## Assigment 1
 
 Regression problems
