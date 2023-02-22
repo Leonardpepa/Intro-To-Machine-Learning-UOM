@@ -11,6 +11,8 @@ Regression problems
 ## Assigment 2
 
 Classification problems
+<br>
+To run this you need to change the code for authentication or delete it and load the csv maunaly
 
 ## Assigment 3
 
